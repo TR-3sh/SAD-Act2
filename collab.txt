@@ -3,3 +3,5 @@ This is Trishia (Owner)
 
 Hi Trisha! 
 This is James (Collaborator).
+
+Hi, James! Trisha says hello from the collaborator side.
